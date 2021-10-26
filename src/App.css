@@ -1,0 +1,21 @@
+
+li {
+  list-style: none;
+  margin-right: 50px;
+  padding-bottom: 20px;
+  overflow: hidden;
+  display: inline-block;
+  margin-left: 10%;
+  padding-bottom: 50px;
+  
+}
+
+.Navbar{
+  padding-top: 50px;
+}
+
+
+
+.router{
+ padding-left: 30%;
+}
